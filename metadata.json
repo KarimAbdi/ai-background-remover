@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Background Editor",
+  "description": "An intelligent photo editor that removes backgrounds, allows you to add custom new ones, and can transform your subject into a cartoon with a single click.",
+  "requestFramePermissions": []
+}
